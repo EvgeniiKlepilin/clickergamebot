@@ -4,7 +4,7 @@ the side of screen in Windows so that it will
 make it half the screen size.
 Resolution used: 1366x768
 
-//STOPPED on step 7
+
 """
 
 # Globals
